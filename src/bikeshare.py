@@ -1,7 +1,7 @@
 
 
 # Tristan Dan Le
-# Mai 5, 2020 - It's my birthday to day :)
+# Mai 5, 2020 
 # Udacity Data Science Programming With Python
 # Project 1 - Python - US Bikeshare Data
 
